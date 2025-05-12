@@ -2,7 +2,7 @@
 
 ## Overview
 This project explores human activity recognition using accelerometer and gyroscope data from smartphones. The aim is to build a model that can accurately predict the activity performed by an individual based on sensor data.
-
+![Data](https://raw.githubusercontent.com/Sjschhabra/Activity-Recognition-ML/refs/heads/main/40860_2021_147_Fig2_HTML.webp)
 ![Data](https://raw.githubusercontent.com/Sjschhabra/Activity-Recognition-ML/refs/heads/main/Screenshot%202025-05-11%20191403.png)
 ## Data
 The dataset consists of accelerometer and gyroscope readings collected from smartphones. It includes features such as mean and standard deviation of acceleration in different directions, as well as statistical measures derived from these readings.
